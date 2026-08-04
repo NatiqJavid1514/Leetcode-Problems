@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
