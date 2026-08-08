@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 ## Simulation
