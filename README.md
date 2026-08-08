@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0682-baseball-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
