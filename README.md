@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -69,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
