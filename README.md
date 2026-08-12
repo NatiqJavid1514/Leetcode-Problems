@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0231-power-of-two) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
