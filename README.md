@@ -101,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
