@@ -13,7 +13,7 @@ public:
         if(head!=NULL){
         ListNode *temp=head;
         ListNode *temp2=head;
-        temp2=temp2->next;
+        // temp2=temp2->next;
 
         while(temp2!=NULL && temp2->next!=NULL){
             temp=temp->next;
