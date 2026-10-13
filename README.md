@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
