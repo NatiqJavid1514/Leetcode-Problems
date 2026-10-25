@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0507-perfect-number) |
 ## String
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/NatiqJavid1514/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
